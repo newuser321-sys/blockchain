@@ -1,0 +1,6 @@
+1. User ID == Unique private key
+2. Private key creates public key
+3. Both become primary identity of user
+4. Credit stored as UTXO token
+5. Initiate transaction
+	- key variables = private key, public key, 

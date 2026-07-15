@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Blockchain/Blockchain.vcxproj" Id="ffab0759-6e81-428d-8090-ac3070e837d2" />
+</Solution>
